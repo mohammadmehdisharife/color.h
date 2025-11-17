@@ -70,4 +70,3 @@ This project is licensed under the **MIT License**.
 
 Feel free to use, modify, or integrate this header in any project.  
 Star the repository if you find it useful!
-```
